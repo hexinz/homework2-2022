@@ -81,13 +81,13 @@ div{
 }
 
 .green{
-    background-color: #00EB00;
+    background-color: #008500;
     text-align: left;
     margin-right: 50px;
     border-bottom: 3px solid #fff;
     border-right: 10px solid #fff;
     border-left: none;
-    border-top: none;
+    
 }
 
 span{
